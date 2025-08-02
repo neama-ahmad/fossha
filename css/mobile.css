@@ -8,7 +8,7 @@
     src: url("../JF_Flat.ttf");
 }
    body{
-      line-hieght:1.2;
+      line-height:1.2;
    }
 
     /*header*/
@@ -405,7 +405,7 @@
     src: url("../JF_Flat.ttf");
 }
  body{
-      line-hieght:1.2;
+      line-height:1.2;
    }
     /*header*/
     .header{
@@ -557,4 +557,5 @@
    
 
 }
+
 
