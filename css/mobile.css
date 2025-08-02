@@ -1,4 +1,13 @@
 @media (max-width: 780px) {
+    *{
+    box-sizing: border-box;
+}
+  
+@font-face {
+    font-family:"JF Flat Regular";
+    src: url("../JF_Flat.ttf");
+}
+
     /*header*/
     .header{
         display:flex;
@@ -384,6 +393,14 @@
 
 @media (max-width: 1000px ) and (min-width:780px) {
     
+    *{
+    box-sizing: border-box;
+}
+  
+@font-face {
+    font-family:"JF Flat Regular";
+    src: url("../JF_Flat.ttf");
+}
 
     /*header*/
     .header{
@@ -533,4 +550,5 @@
 
 
    
+
 }
