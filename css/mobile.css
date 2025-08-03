@@ -67,7 +67,7 @@
 
     .header .button{
         width: 60%;
-        padding: 10px 7px;
+        padding: 12px 7px;
         margin: 12px 0px;
         font-size: 15px;
     }
@@ -139,7 +139,7 @@
     .about .about-circles{
         height: 100%;
         width:100%;
-        padding: 20px;
+        padding: 12px;
     }
     
 
@@ -153,7 +153,7 @@
     }
     
     .about .circle-text{
-        width:300px;
+        width:280px;
         height:65px;
     
     }
@@ -209,7 +209,7 @@
         align-items: center;
         flex-wrap: nowrap;
         height: 330px;
-        width:60%;
+        width:80%;
         margin:8px 0px; 
     }
 
@@ -224,7 +224,7 @@
 
     .services .button{
         width: 70%;
-        padding: 9px 0px;
+        padding: 12px 0px;
         margin: 20px;
         font-size: 15px;
     }
@@ -557,6 +557,7 @@
    
 
 }
+
 
 
 
